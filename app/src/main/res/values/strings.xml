@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">smart_spend_app</string>
+    <string name="choose_or_create_category">Choose or create category</string>
+    <string name="income">Income</string>
+    <string name="todo">TODO</string>
+    <string name="amount_r">Amount (R)</string>
+</resources>
